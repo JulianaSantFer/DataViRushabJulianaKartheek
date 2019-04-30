@@ -24,48 +24,6 @@ In the Business question we are finding out what is the cholesterol level in the
 
 In the figure 1 we are creating an interactive graph in the shiny app by having the cholesterol levels of men in the ascending order. The X-axis shows the average cholesterol level and the Y-axis depicts the number of patients in the dataset.
 
-Skip to content
-
- 
-  
-Pull requests 
-Issues 
-Marketplace 
-Explore 
-
- 
- 
- 
-
-
- Watch 
-0 
- Star 
-0 
- Fork 
-0 
-
-JulianaSantFer/DataViRushabJulianaKartheek 
- Code 
- Issues 0 
- Pull requests 0 
- Projects 0 
- Wiki 
- Insights 
- Settings 
-Branch: master 
-DataViRushabJulianaKartheek/Chart.html 
-Find file 
-Copy path 
- JulianaSantFer Add files via upload 
-18a92c4 14 minutes ago 
-1 contributor 
-1340 lines (1323 sloc) 9.07 KB 
-Raw
-Blame
-History
-   
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 
   "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
