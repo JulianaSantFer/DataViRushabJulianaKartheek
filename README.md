@@ -1,12 +1,12 @@
 
-LINK: 
-This is graph 1, for the next graph: https://julianasantfer.github.io/Interactive-Data-Visualization/
+[LINK:] (https://julianasantfer.github.io/Interactive-Data-Visualization/)
+This is graph 1
 Below you can see a plot with the player results
 Blablablabla Below you can see a plot with the player results
 Blablablabla
 
 
-GRAPH 1 
+##GRAPH 1 
 <html><head><meta charset="utf-8"><style id="plotly.js-style-global"></style><style id="plotly.js-style-modebar-f7d5ae"></style></head>
 <body>
     <div>
@@ -40,7 +40,7 @@ GRAPH 1
 <div class="plotly-notifier"></div></body></html>
 
 
-Then for the next plot we have…….
+Then for the next plot we have……. [for the next graph] (https://julianasantfer.github.io/Interactive-Data-Visualization/)
 
 
 
