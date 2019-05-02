@@ -1,3 +1,5 @@
+
+Below you can see a plot with the player results
 <html><head><meta charset="utf-8"><style id="plotly.js-style-global"></style><style id="plotly.js-style-modebar-f7d5ae"></style></head>
 <body>
     <div>
@@ -29,3 +31,8 @@
         </div><svg id="js-plotly-tester" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; left: -10000px; top: -10000px; width: 9000px; height: 9000px; z-index: 1;"><path class="js-reference-point" d="M0,0H1V1H0Z" style="stroke-width: 0; fill: black;"></path></svg>
 
 <div class="plotly-notifier"></div></body></html>
+
+
+Then for the next plot we have…….
+
+
